@@ -56,3 +56,10 @@ python3 -m etl -f third_party_sales_1.csv
 ```
 python3 -m etl -l
 ```
+#### example output
+```
+Here are the most popular tickets:
+- Carlisle Ford Nationals, Carlisle
+- The North American International Auto Show, Michigan
+- Christmas Spectacular, New York
+```
